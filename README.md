@@ -16,3 +16,6 @@ Overview of NLP including terms, applications, approaches, and my interest in it
 - To run this program, give it the relative path to the txt file holding the raw text containing the words you want in the game. For example, you could use the first chapter of a textbook. The program will prompt the user to guess what the word is letter by letter. Below are the instructions given to the user after the text has been processed and the game is beginning:
 > Hello! This is a game similar to hangman. You will be given 5 points to start with and a word to guess. Each wrong guess will deduct 1 point. Each correct guess will increase your points by 1. When your point total dips below 0, you will lose. To give up, guess "!". Guessing the whole word correctly will result in victory and award bonus points based on how many letters are remaining. Guess the word correctly to win!
 - [Find the code here](2_Word_Guessing_Game.py)
+
+## WordNet
+This Python notebook chronicles various exercises I performed in learning about WordNet, SentiWordNet, and collocations. [Find it here.](WordNet.pdf)
