@@ -19,3 +19,13 @@ Overview of NLP including terms, applications, approaches, and my interest in it
 
 ## WordNet
 This Python notebook chronicles various exercises I performed in learning about WordNet, SentiWordNet, and collocations. [Find it here.](WordNet.pdf)
+
+## Ngrams
+- Two programs that create and test language models for multiple languages
+- The first program creates the language models. To run this program, give it the relative path to the data folder holding your language files. It will take some time to process.
+- The second program reads the language models and tests their accuracy. Simply run this program in the same folder as your generated language model files.
+- [Find the code here.](4_Ngrams) This folder also includes a narrative written by Kiara Madeam and I where we further research ngrams.
+- [Also find our collaborative repo here, where we include the corresponding data folder with language files.](https://github.com/cmn180003/Ngrams)
+
+## Sentence Parsing
+Exercise in sentence parsing using PSG tree, dependency parsing, and SRL parsing methods. [Find it here.](Sentence_Parsing.pdf)
