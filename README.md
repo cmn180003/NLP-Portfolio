@@ -29,3 +29,9 @@ This Python notebook chronicles various exercises I performed in learning about 
 
 ## Sentence Parsing
 Exercise in sentence parsing using PSG tree, dependency parsing, and SRL parsing methods. [Find it here.](Sentence_Parsing.pdf)
+
+## Web Crawler
+- Program that builds a knowledge base by trawling the web
+- This program does not need any input or other special instructions to run but understand that Beautiful Soup gives varied results based on environment. If a url from the generated list causes the program to crash, copy the pre-generated url list into the same folder as the program, comment out "webcrawler()" in the main function and run.
+- [Find the code here.](5_Web_Crawler) This folder also includes a document with information about the knowledge base and sample dialog for a potential chatbot made with the knowledge base.
+- [Also find Kiara Madeam and I's collaborative repo here, where we include pre-generated files.](https://github.com/kiara-aleecia/WebCrawler)
