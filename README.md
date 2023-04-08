@@ -38,3 +38,6 @@ Exercise in sentence parsing using PSG tree, dependency parsing, and SRL parsing
 
 ## Text Classification
 This Python notebook was an exercise in which I tested various text classification models -- Naive Bayes, Logistic Regression, and Neural Networks -- on a data set consisting of Rotten Tomatoes reviews. [Find it here.](Text_Classification.pdf)
+
+## ACL Paper Summary
+Summary of ACL paper *Searching for fingerspelled content in American Sign Language*. [Find it here.](ACL_Paper_Summary.pdf)
