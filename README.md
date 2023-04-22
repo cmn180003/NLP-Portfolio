@@ -41,3 +41,11 @@ This Python notebook was an exercise in which I tested various text classificati
 
 ## ACL Paper Summary
 Summary of ACL paper *Searching for fingerspelled content in American Sign Language*. [Find it here.](ACL_Paper_Summary.pdf)
+
+## Chatbot
+- Crochet and knitting chatbot made with Chatterbot and added user models to track preferences.
+- [Find the code on this repo here.](6_Chatbot)
+- [Also find Kiara Madeam and I's collaborative repo here](https://github.com/cmn180003/Chatbot)
+
+## Text Classification 2
+This Python notebook is a sequel to Text Classification where I test sequential model by itself, with RNN, and with embeddings on the same dataset used previously. [Find it here](Text_Classification_2.pdf)
