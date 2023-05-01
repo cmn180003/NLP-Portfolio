@@ -49,3 +49,6 @@ Summary of ACL paper *Searching for fingerspelled content in American Sign Langu
 
 ## Text Classification 2
 This Python notebook is a sequel to Text Classification where I test sequential model by itself, with RNN, and with embeddings on the same dataset used previously. [Find it here](Text_Classification_2.pdf)
+
+## Summary
+During the course of this class, I gained and fostered many skills, as listed [here](Technical_and_Soft_Skills). NLP is the most interesting subfield of machine learning in my eyes. As a person who enjoys thinking about the ways people express themselves through art and speech, I really appreciate how NLP has to deal with those nuances and how they must adapt to trends and context. I have a few ideas for personal NLP projects including a chatbot that will help me look up the possible cards my opponent can have in a video game that I play that involves a card game. Considering the higher level of education usually required of most ML jobs, I don't think that I will have a future in this field but I very much enjoyed learning about NLP and would be thrilled at the opportunity to be proved wrong.
